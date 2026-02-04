@@ -39,7 +39,7 @@ During a deployment update, old Pods are deleted and new Pods are created. Servi
 ---
 
 ## 40. What Service types are available in Kubernetes?
-### 2-Minute Interview Explanation
+
 Kubernetes provides different Service types based on how traffic should be exposed:
 
 - **ClusterIP** – Internal cluster access  
@@ -72,7 +72,7 @@ Frontend talks to backend API using a ClusterIP Service. Backend is not exposed 
 ---
 
 ## 42. In what cases would NodePort be used?
-### 2-Minute Interview Explanation
+
 NodePort exposes a Service on a **static port** on every worker node.
 
 It is mainly used:
