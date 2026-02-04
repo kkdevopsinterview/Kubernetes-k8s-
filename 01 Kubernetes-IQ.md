@@ -1,4 +1,4 @@
-# Kubernetes Interview 
+# Kubernetes Interview Questions
 
 ## 1. What is Kubernetes?
 
