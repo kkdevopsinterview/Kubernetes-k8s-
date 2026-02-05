@@ -39,7 +39,7 @@ These metrics are collected using:
 
 ### Interview Punch Line
 “Autoscaling is driven by resource or application metrics.”
-
+### KK Funda
 ---
 
 ## 90. When would you use Vertical Pod Autoscaler (VPA)?
