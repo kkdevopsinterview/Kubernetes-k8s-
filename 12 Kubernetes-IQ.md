@@ -1,5 +1,3 @@
-# Kubernetes Node Management --- Interview Notes
-
 ## 115. What does it indicate when a node becomes NotReady?
 
 When a Kubernetes node shows NotReady, it means the control plane cannot
