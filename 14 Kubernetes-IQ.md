@@ -2,7 +2,7 @@
 
 Network Policies in Kubernetes are used to control how Pods communicate
 with each other and external endpoints. By default, Pods can communicate
-freely inside the cluster. Network Policies allow us to define rules
+freely inside the cluster. Network Policies allow us to define rules 
 that permit or deny traffic based on:
 
 -   Pod labels
